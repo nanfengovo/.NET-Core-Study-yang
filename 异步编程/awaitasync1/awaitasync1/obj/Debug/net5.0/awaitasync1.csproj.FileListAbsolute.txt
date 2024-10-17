@@ -1,0 +1,16 @@
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.exe
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.deps.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.runtimeconfig.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.runtimeconfig.dev.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.pdb
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.AssemblyInfoInputs.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.AssemblyInfo.cs
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.csproj.CoreCompileInputs.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.sourcelink.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\refint\awaitasync1.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.pdb
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.genruntimeconfig.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\awaitasync1\obj\Debug\net5.0\ref\awaitasync1.dll
