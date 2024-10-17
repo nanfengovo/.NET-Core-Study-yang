@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("awaitasync1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("yibuyuanli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe8d5e2f68ed0eac507bf3f978a782c20883d539")]
-[assembly: System.Reflection.AssemblyProductAttribute("awaitasync1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("awaitasync1")]
+[assembly: System.Reflection.AssemblyProductAttribute("yibuyuanli")]
+[assembly: System.Reflection.AssemblyTitleAttribute("yibuyuanli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

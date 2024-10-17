@@ -1,0 +1,16 @@
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.exe
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.deps.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.runtimeconfig.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.runtimeconfig.dev.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\bin\Debug\net5.0\yibuyuanli.pdb
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.AssemblyInfoInputs.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.AssemblyInfo.cs
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.csproj.CoreCompileInputs.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.sourcelink.json
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\refint\yibuyuanli.dll
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.pdb
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\yibuyuanli.genruntimeconfig.cache
+E:\Code\.NET-Core-Study-yang\异步编程\awaitasync1\yibuyuanli\obj\Debug\net5.0\ref\yibuyuanli.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB1771BB-AAEF-440A-818F-71E616D44BF8}|yibuyuanli\\yibuyuanli.csproj|e:\\code\\.net-core-study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\yibuyuanli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1771BB-AAEF-440A-818F-71E616D44BF8}|yibuyuanli\\yibuyuanli.csproj|solutionrelative:yibuyuanli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86758DFC-A05E-45E3-AD89-C352120620A3}|awaitasync1\\awaitasync1.csproj|e:\\code\\.net-core-study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\awaitasync1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86758DFC-A05E-45E3-AD89-C352120620A3}|awaitasync1\\awaitasync1.csproj|solutionrelative:awaitasync1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -36,10 +40,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\yibuyuanli\\Program.cs",
+              "RelativeDocumentMoniker": "yibuyuanli\\Program.cs",
+              "ToolTip": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\yibuyuanli\\Program.cs",
+              "RelativeToolTip": "yibuyuanli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:55:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\awaitasync1\\Program.cs",
               "RelativeDocumentMoniker": "awaitasync1\\Program.cs",
-              "ToolTip": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\awaitasync1\\Program.cs*",
-              "RelativeToolTip": "awaitasync1\\Program.cs*",
+              "ToolTip": "E:\\Code\\.NET-Core-Study-yang\\\u5F02\u6B65\u7F16\u7A0B\\awaitasync1\\awaitasync1\\Program.cs",
+              "RelativeToolTip": "awaitasync1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T01:41:08.915Z",
