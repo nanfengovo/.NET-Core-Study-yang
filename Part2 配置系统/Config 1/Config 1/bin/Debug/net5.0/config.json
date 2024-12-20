@@ -1,5 +1,5 @@
 ﻿{
   "name": "yzk",
   "age": 18,
-  "proxy": {"address": "aa"}
+  "proxy": {"address": "aa","port": 80}
 }

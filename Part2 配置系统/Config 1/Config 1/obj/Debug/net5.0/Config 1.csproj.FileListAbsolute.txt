@@ -24,3 +24,7 @@ E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Conf
 E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\obj\Debug\net5.0\ref\Config 1.dll
 E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\obj\Debug\net5.0\Config 1.pdb
 E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\obj\Debug\net5.0\Config 1.genruntimeconfig.cache
+E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\Study-ASP.Net Core\.NET-Core-Study-yang\Part2 配置系统\Config 1\Config 1\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
