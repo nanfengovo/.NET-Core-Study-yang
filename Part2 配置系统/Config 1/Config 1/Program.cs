@@ -48,14 +48,23 @@ namespace Config_1
                 .Configure<Proxy>(e => configRoot.GetSection("proxy").Bind(e));
             services.AddScoped<TestController>();
             services.AddScoped<Test2>();
-            using (var sp =services.BuildServiceProvider())
+            while (true)
             {
-                var c = sp.GetRequiredService<TestController>();
-                c.Test();
-                var c2 = sp.GetRequiredService<Test2>();
-                c2.Test();
-            }
+                using (var sp =services.BuildServiceProvider())
+                {
+                
+                    var c = sp.GetRequiredService<TestController>();
+                    c.Test();
+                    var c2 = sp.GetRequiredService<Test2>();
+                    c2.Test();
+                }
 
+                Console.WriteLine("继续");
+                Console.ReadLine();
+                
+
+            }
+           
             
         }
     }

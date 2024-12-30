@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\entitymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\entitymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\roleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\roleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\migrations\\20241230141654_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\migrations\\20241230141654_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\entitymodel\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\entitymodel\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\migrations\\20241230140844_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\migrations\\20241230140844_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\efcore\\efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C45EC95D-C688-4EA7-A0FA-4F37F2053867}|EFCore\\EFCore.csproj|solutionrelative:efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241230141654_AddRole.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Migrations\\20241230141654_AddRole.cs",
+              "RelativeDocumentMoniker": "EFCore\\Migrations\\20241230141654_AddRole.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Migrations\\20241230141654_AddRole.cs",
+              "RelativeToolTip": "EFCore\\Migrations\\20241230141654_AddRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:16:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleEntityConfig.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\RoleEntityConfig.cs",
+              "RelativeDocumentMoniker": "EFCore\\RoleEntityConfig.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\RoleEntityConfig.cs",
+              "RelativeToolTip": "EFCore\\RoleEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:12:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EntityModel\\Role.cs",
+              "RelativeDocumentMoniker": "EFCore\\EntityModel\\Role.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EntityModel\\Role.cs",
+              "RelativeToolTip": "EFCore\\EntityModel\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:10:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserEntityConfig.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\UserEntityConfig.cs",
+              "RelativeDocumentMoniker": "EFCore\\UserEntityConfig.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\UserEntityConfig.cs",
+              "RelativeToolTip": "EFCore\\UserEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:08:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore\\Program.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Program.cs*",
+              "RelativeToolTip": "EFCore\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:05:54.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EntityModel\\User.cs",
+              "RelativeDocumentMoniker": "EFCore\\EntityModel\\User.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EntityModel\\User.cs",
+              "RelativeToolTip": "EFCore\\EntityModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:08:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore\\TestDbContext.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\TestDbContext.cs",
+              "RelativeToolTip": "EFCore\\TestDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:05:57.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241230140844_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Migrations\\20241230140844_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EFCore\\Migrations\\20241230140844_InitialCreate.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\Migrations\\20241230140844_InitialCreate.cs",
+              "RelativeToolTip": "EFCore\\Migrations\\20241230140844_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:08:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFCore",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EFCore.csproj",
+              "RelativeDocumentMoniker": "EFCore\\EFCore.csproj",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\EFCore\\EFCore\\EFCore.csproj",
+              "RelativeToolTip": "EFCore\\EFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T14:07:22.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
