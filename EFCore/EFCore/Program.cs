@@ -31,7 +31,18 @@ namespace EFCore
                 //{
                 //    Console.WriteLine(b.Title);
                 //}
+
+                #region 查找并按价格倒叙
+                //var items = ctx.Books.Where(x => x.Price > 30).OrderByDescending(x => x.Price);
+                //foreach(var it in items)
+                //{
+                //    Console.WriteLine($"{it.AuthorName},{it.Price}");
+                //}
                 #endregion
+
+                #endregion
+
+
 
                 #region 删
                 #region 重置脏数据的代码
@@ -67,20 +78,27 @@ namespace EFCore
 
                 #region 改   查到后修改
                 //将价格为50的书的价格改为100
-                var book = ctx.Books.Where(x => x.Price == 50).FirstOrDefault();
-                if (book != null)
-                {
-                    book.Price = 100;
-                    ctx.SaveChanges();
-                    Console.WriteLine("修改成功！");
-                }
-                else
-                {
-                    Console.WriteLine("不存在价格为50的书！");
-                }
+                //var book = ctx.Books.Where(x => x.Price == 50).FirstOrDefault();
+                //if (book != null)
+                //{
+                //    book.Price = 100;
+                //    ctx.SaveChanges();
+                //    Console.WriteLine("修改成功！");
+                //}
+                //else
+                //{
+                //    Console.WriteLine("不存在价格为50的书！");
+                //}
 
-
+                #region 批量增删查改  ， 对价格大于30的书的价格加100
+                 var books = ctx.Books.Where(x => x.Price > 30);
+                foreach (var b in books)
+                {
+                    b.Price += 100;
+                }
+                ctx.SaveChanges();
                 #endregion
+                    #endregion
             }
 
 
