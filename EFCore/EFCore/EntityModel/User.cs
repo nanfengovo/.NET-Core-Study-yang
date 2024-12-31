@@ -11,6 +11,8 @@
             //密码
             public string Password { get; set; }
 
+            //创建人
+            public string CreateName { get; set; }
 
     }
 }
