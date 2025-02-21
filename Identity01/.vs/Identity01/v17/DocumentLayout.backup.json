@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161700_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Identity01\\Migrations\\20250221161700_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Identity01\\Migrations\\20250221161353_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\myrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\myrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContextDesignTimeFactory.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\DbContextDesignTimeFactory.cs",
+              "RelativeDocumentMoniker": "Identity01\\DbContextDesignTimeFactory.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\DbContextDesignTimeFactory.cs",
+              "RelativeToolTip": "Identity01\\DbContextDesignTimeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:09:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Identity01\\MyDbContext.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyDbContext.cs",
+              "RelativeToolTip": "Identity01\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:22:50.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250221161700_Init.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161700_Init.cs",
+              "RelativeDocumentMoniker": "Identity01\\Migrations\\20250221161700_Init.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161700_Init.cs",
+              "RelativeToolTip": "Identity01\\Migrations\\20250221161700_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:17:01.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Program.cs",
+              "RelativeDocumentMoniker": "Identity01\\Program.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Program.cs",
+              "RelativeToolTip": "Identity01\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:42:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250221161353_Init.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs",
+              "RelativeDocumentMoniker": "Identity01\\Migrations\\20250221161353_Init.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs",
+              "RelativeToolTip": "Identity01\\Migrations\\20250221161353_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:13:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Identity01\\Controllers\\DemoController.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Controllers\\DemoController.cs*",
+              "RelativeToolTip": "Identity01\\Controllers\\DemoController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:37:51.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity01\\appsettings.json",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\appsettings.json",
+              "RelativeToolTip": "Identity01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T15:46:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRole.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyRole.cs",
+              "RelativeDocumentMoniker": "Identity01\\MyRole.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyRole.cs",
+              "RelativeToolTip": "Identity01\\MyRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:20:26.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyUser.cs",
+              "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyUser.cs",
+              "RelativeDocumentMoniker": "Identity01\\MyUser.cs",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyUser.cs",
+              "RelativeToolTip": "Identity01\\MyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:16:14.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

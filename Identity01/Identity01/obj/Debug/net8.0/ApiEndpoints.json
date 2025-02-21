@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Identity01.Controllers.DemoController",
+    "Method": "CheckPwd",
+    "RelativePath": "api/Demo/CheckPwd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Identity01.CheckPwdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Identity01.Controllers.DemoController",
+    "Method": "Test1",
+    "RelativePath": "api/Demo/Test1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

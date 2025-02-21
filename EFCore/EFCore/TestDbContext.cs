@@ -14,7 +14,7 @@ namespace EFCore
         public DbSet<Book> Books { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string conStr = "Server = . ;Database = PLCHelper ;User=sa ;Password=aaaa2624434145 ;Encrypt=True;Trusted_Connection=True;TrustServerCertificate=True;";
+            string conStr = "Server = . ;Database = EFCoreDemo ;User=sa ;Password=aaaa2624434145 ;Encrypt=True;Trusted_Connection=True;TrustServerCertificate=True;";
             optionsBuilder.UseSqlServer(conStr);
         }
 
