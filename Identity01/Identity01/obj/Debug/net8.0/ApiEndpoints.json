@@ -17,6 +17,48 @@
   },
   {
     "ContainingType": "Identity01.Controllers.DemoController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Demo/ResetPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Identity01.Controllers.DemoController",
+    "Method": "SendResetPasswordToken",
+    "RelativePath": "api/Demo/SendResetPasswordToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Identity01.Controllers.DemoController",
     "Method": "Test1",
     "RelativePath": "api/Demo/Test1",
     "HttpMethod": "POST",

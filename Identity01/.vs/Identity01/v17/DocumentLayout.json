@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\checkpwdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\checkpwdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161700_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Identity01\\Migrations\\20250221161700_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Identity01\\Migrations\\20250221161353_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\checkpwdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\checkpwdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|solutionrelative:identity01\\dbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92534C90-B8D4-4C2A-BC4D-3A3A64D6E9AD}|Identity01\\Identity01.csproj|e:\\code\\study-asp.net core\\.net-core-study-yang\\identity01\\identity01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,8 +65,12 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Identity01\\MyDbContext.cs",
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "20250221161700_Init.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161700_Init.cs",
               "RelativeDocumentMoniker": "Identity01\\Migrations\\20250221161700_Init.cs",
@@ -92,26 +96,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Program.cs",
               "RelativeDocumentMoniker": "Identity01\\Program.cs",
               "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Program.cs",
               "RelativeToolTip": "Identity01\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAChAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T15:42:29.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "20250221161353_Init.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs",
               "RelativeDocumentMoniker": "Identity01\\Migrations\\20250221161353_Init.cs",
               "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Migrations\\20250221161353_Init.cs",
               "RelativeToolTip": "Identity01\\Migrations\\20250221161353_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:13:53.988Z",
               "EditorCaption": ""
@@ -124,19 +128,19 @@
               "RelativeDocumentMoniker": "Identity01\\Controllers\\DemoController.cs",
               "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\Controllers\\DemoController.cs*",
               "RelativeToolTip": "Identity01\\Controllers\\DemoController.cs*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAiwD0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwIMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:37:51.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CheckPwdRequest.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\CheckPwdRequest.cs",
               "RelativeDocumentMoniker": "Identity01\\CheckPwdRequest.cs",
-              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\CheckPwdRequest.cs*",
-              "RelativeToolTip": "Identity01\\CheckPwdRequest.cs*",
+              "ToolTip": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\CheckPwdRequest.cs",
+              "RelativeToolTip": "Identity01\\CheckPwdRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T17:02:43.812Z",
@@ -144,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DbContextDesignTimeFactory.cs",
               "DocumentMoniker": "E:\\Code\\Study-ASP.Net Core\\.NET-Core-Study-yang\\Identity01\\Identity01\\DbContextDesignTimeFactory.cs",
               "RelativeDocumentMoniker": "Identity01\\DbContextDesignTimeFactory.cs",
@@ -154,10 +158,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:09:42.402Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
